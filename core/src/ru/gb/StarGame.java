@@ -17,6 +17,7 @@ public class StarGame extends ApplicationAdapter {
 		img1 = new Texture("back1.jpg");
 	}
 
+
 	@Override
 	public void render () {
 		x++;
